@@ -8,3 +8,4 @@ Welcome to Jeremy's Portfolio!
 - [ ] Jekyll to add static site generation, markdowns
 - [ ] Public APIs weather API, JS
 - [ ] Give up and cry in a corner
+- [ ] repeat
