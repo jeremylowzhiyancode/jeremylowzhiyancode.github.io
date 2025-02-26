@@ -1,9 +1,8 @@
-yaml
-
 ---
 Welcome to Jeremy's Portfolio!
 ---
-~Absolutely nothing here because I'm just a pharmaceutics dude with no skills, talent or knowledge.~ ~what's centering a div?~
+Absolutely nothing here because I have no skills, talent or knowledge.
+~what's centering a div?~
 
 **checklist of the unemployed tech dreamers**
 - [x] Start personal site on Github Pages, HTML/CSS, include home page, about me, project links
