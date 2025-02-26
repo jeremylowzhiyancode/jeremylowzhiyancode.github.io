@@ -1,4 +1,4 @@
-Absolutely nothing here because I have no skills, talent or knowledge.
+This is showing up twice??
 ---
 ~what's centering a div?~
 
