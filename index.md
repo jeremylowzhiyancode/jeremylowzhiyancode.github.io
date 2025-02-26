@@ -1,3 +1,7 @@
+What's going on?
+---
+Is this repeating?
+---
 This is showing up twice??
 ---
 ~what's centering a div?~
